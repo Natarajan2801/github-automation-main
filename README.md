@@ -13,7 +13,5 @@ lots of mistakes and fixes in this video.
 ## How to use?
     Clone the repo
     Install the dependency
-    Execute the test from src/test/java
-
-# [Watch Youtube Tutorial](https://youtu.be/KnWLTyu2-Jc)    
+    Execute the test from src/test/java  
  
